@@ -1,0 +1,18 @@
+* {
+    background-color: aliceblue;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding-left: none;
+    margin-left: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 1em auto;
+    width: 19%;
+}
+
